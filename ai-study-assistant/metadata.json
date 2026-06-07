@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "A simple and clean AI Study Assistant that helps students understand concepts, ask questions, and get generated answers using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
